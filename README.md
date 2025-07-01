@@ -1,2 +1,3 @@
 # SrijitaSteel_frontend
-Fully functional and production-ready front-end for Srijita Steel. Designed to meet client requirements with clean UI and cross-device compatibility.
+Front-end website for Srijita Steel, built with HTML, CSS, and JavaScript. Fully responsive and includes all required sections.
+My first professionally deployed project, fully customized to meet client requirements and optimized for all devices.
